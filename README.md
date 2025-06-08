@@ -13,7 +13,7 @@ The goal of this task was to fetch user data from a public API and display it on
 - `index.html` – Basic webpage structure and container for data display.
 - `style.css` – Styling for layout and user cards.
 - `script.js` – JavaScript file that fetches data from the API and displays it dynamically.
-- `screenshot.png` – Screenshot showing the webpage output. *(if available)*
+- `https://github.com/Ananya24112002Gupta/task-7/blob/main/Screenshot%202025-06-08%20164226.png` – Screenshot showing the webpage output.
 - `README.md` – This file, describing the task, approach, and files.
 
 ##  What I Did
